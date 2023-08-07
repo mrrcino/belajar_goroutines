@@ -1,2 +1,4 @@
 # belajar_goroutines
-Belajar Go Routines 
+Belajar Go Routines Golang
+
+From Programmer Zaman Now
