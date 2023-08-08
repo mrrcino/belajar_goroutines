@@ -1,4 +1,5 @@
 # belajar_goroutines
 Belajar Go Routines Golang
 
-From Programmer Zaman Now
+Course by Programmer Zaman Now
+Using GoLand
